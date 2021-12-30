@@ -1,4 +1,4 @@
-# Advanced-NLP
+# Advanced-NLP for Sentiment Analysis
 
 ## Overview
 In this project, we will use **Hugging Face Transformers** and pre-trained **BERT** Neural Networks for sentiment analysis. We will run the model using a single prompt but also leverage **BeautifulSoup** to scrape reviews from Yelp to be able to calculate sentiment on a larger scale.
